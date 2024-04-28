@@ -1,5 +1,5 @@
 const db = require("../models");
-const Movie = db.movies;
+const Movie = db.glsi_db;
 
 
 // Créer et enregistrer un nouveau film
